@@ -1,5 +1,4 @@
-%% Aayam Shrestha
-%% DSP Laboratory 2
+%% Image Processing
 
 clc;
 clear all;
