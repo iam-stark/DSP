@@ -1,6 +1,5 @@
-# DSP Tutorial
+# DSP Tutorial on Image Processing
 
-1. Image Processing
 This repository contains MATLAB code and results for the Digital Signal Processing (DSP) tutorial focused on image processing tasks.
 
 ## Tasks
